@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react'
 
-const API_URL = 'https://tryon.hackship.cloud'
+const API_URL = 'https://fitvision.hackship.cloud'
 
 const SHAPES = {
   'Hourglass':            { icon: '⌛', bg: 'rgba(168,85,247,0.12)',  border: 'rgba(168,85,247,0.4)' },

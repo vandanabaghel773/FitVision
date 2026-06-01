@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react'
 
-const API_URL = 'https://tryon.hackship.cloud'
+const API_URL = 'https://fitvision.hackship.cloud'
 
 // ─── Small reusable upload zone ───────────────────────────────────────────────
 const UploadZone = ({ label, hint, image, onFile, onClear, icon }) => {
