@@ -25,3 +25,4 @@ python_service/.env
 *.sw?
 
 
+python_service/.env
